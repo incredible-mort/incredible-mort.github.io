@@ -1,7 +1,7 @@
 ---
 title: Get Start With My Website
 date: 2023-08-22 17:30:00 +/-TTTT
-author: <author_id>
+author: Shi Junliang
 categories: [Article, Entertainment]
 tags: [play]     # TAG names should always be lowercase
 ---
@@ -15,7 +15,7 @@ RealSense T265 的路径可靠性功能调查
 
 ## RealSense T265
 
-> [Intel RealSense Documentation Code-overview](https://dev.intelrealsense.com/docs/rs-pose-predict#code-overview)
+[Intel RealSense Documentation Code-overview](https://dev.intelrealsense.com/docs/rs-pose-predict#code-overview)
 
 ​		这部分工作主要围绕着机器人部门在智能喷枪规划中，对于T265设备的标定与算法测试之外，T265在自身所在的SDK包中，具备标出VIO路径为绿色、黄色、红色的功能，并且在设备运行过程中，偶然会出现设备端报错Slam error speed，对T265设备的自身使用有无注意事项进行调研。
 
