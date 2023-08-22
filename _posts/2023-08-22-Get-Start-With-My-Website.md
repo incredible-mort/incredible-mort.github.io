@@ -5,7 +5,7 @@ author: mort
 categories: [Article, Entertainment]
 tags: [play]     # TAG names should always be lowercase
 image:
-  path: /devices-mockup.png
+  path: /posts/devices-mockup.png
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 ## HelloWorld~
