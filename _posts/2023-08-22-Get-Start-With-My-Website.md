@@ -7,8 +7,6 @@ tags: [play]     # TAG names should always be lowercase
 ---
 ## 摘要
 
-------
-
 OAK-D PRO W 的相机录制与标定工作
 
 OAK-D PRO W 在PC与RK3588端的算法运行情况
@@ -16,8 +14,6 @@ OAK-D PRO W 在PC与RK3588端的算法运行情况
 RealSense T265 的路径可靠性功能调查
 
 ## RealSense T265
-
-------
 
 > [Intel RealSense Documentation Code-overview](https://dev.intelrealsense.com/docs/rs-pose-predict#code-overview)
 
